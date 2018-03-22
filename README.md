@@ -1,4 +1,5 @@
-#Burger Logger
+# Burger Logger
+
 ## bootcamp_HW_handlebars
 
 Log burgers here and keep track of whether they've been eaten or not!
@@ -36,7 +37,7 @@ MySQL including an interface such as MySQL Workbench.
 
 ## Authors
 
-* **Alexander Florian-Prescott** - *created as homework assignement* - [EPluribusAlex](https://github.com/EPluribusAlex)
+* **Alexander Florian-Prescott** - *sole contributor* - [EPluribusAlex](https://github.com/EPluribusAlex)
 
 ## License
 
