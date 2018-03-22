@@ -1,5 +1,5 @@
 drop database if exists burgerDB;
-create databse burgerDB;
+create database burgerdb;
 
 use burgerDB;
 

@@ -1,6 +1,6 @@
 // dependencies and imports
 const express = require("express");
-const burger = require("../model/burger.js");
+const burger = require("../models/burger.js");
 
 const router = express.Router();
 

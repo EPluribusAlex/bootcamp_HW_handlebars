@@ -28,7 +28,7 @@ $(function() {
       data: newburger
     }).then(
       function() {
-        console.log("created new cat");
+        console.log("created new burger");
         location.reload();
       }
     );

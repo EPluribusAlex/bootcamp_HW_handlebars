@@ -1,4 +1,4 @@
-use burgerDB;
+use burgerdb;
 
 insert into burgers 
 	(name)
